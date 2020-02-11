@@ -11,8 +11,6 @@ The goal is to make simple to write simple XMPP clients and components:
 - For writing simple chatbot to control a service or a thing,
 - For writing XMPP servers components.
 
-The library is designed to have minimal dependencies. For now, the library does not depend on any other library.
-
 ## Configuration and connection
 
 ### Allowing Insecure TLS connection during development
